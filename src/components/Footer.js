@@ -68,7 +68,7 @@ function Footer() {
               <i class='fab fa-typo3' />
             </Link>
           </div>
-          <small class='website-rights'>MV © 2020</small>
+          <small class='website-rights'>Mathare Victory © 2020</small>
           <div class='social-icons'>
             <Link
               class='social-icon-link facebook'
